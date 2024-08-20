@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a first year Bachelor of Information student at the University of Toronto.
 
-Check out my [personal website here]() to learn more about me!
+
 
 ### Skills
 
